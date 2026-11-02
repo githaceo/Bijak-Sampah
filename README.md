@@ -4,10 +4,10 @@ Website Bijak Sampah
 SDG 11 (Kota dan Permukiman Berkelanjutan) dan SDG 12 (Konsumsi dan Produksi yang Bertanggung Jawab).
 
 ## Anggota Kelompok
-1. Nazma Rahmadhani - 2515091028 
-2. Ni Made Ira Perlina - 2515091031 
-3. Ni Luh Putu Terry Maharani Putri -2515091034
-4. Putu Githa Kusuma Wardani - 2515091110 
+1. Nazma Rahmadhani - 2515091028 - Membuat halaman Tentang (tentang.html)
+2. Ni Made Ira Perlina - 2515091031 - Membuat halaman Panduan dan Artikel (panduan.html & artikel.html)
+3. Ni Luh Putu Terry Maharani Putri -2515091034 - Membuat halaman Kategori (kategori.html)
+4. Putu Githa Kusuma Wardani - 2515091110 - Membuat halaman Beranda (beranda.html)
 
 ## Deskripsi Website
 
@@ -27,7 +27,7 @@ Website ini ditujukan untuk masyarakat umum, khususnya pelajar, mahasiswa, dan k
 
 Website ini terdiri dari lima halaman HTML yang saling terhubung melalui navigasi.
 1. Beranda: `index.html`, Memperkenalkan website dan mengarahkan pengunjung ke materi utama.
-2. Edukasi: `edukasi.html`, Menjelaskan jenis sampah organik, anorganik, B3, dan residu.
+2. Kategori: `Kategori.html`, Menjelaskan jenis sampah: organik, anorganik, B3, dan residu.
 3. Panduan: `panduan.html`, Memberikan panduan Reduce, Reuse, Recycle, serta kebiasaan pengelolaan sampah di rumah.
 4. Artikel: `artikel.html`, Menyajikan inspirasi untuk mengurangi sampah makanan, penggunaan plastik, dan membiasakan pemilahan sampah. 
 5. Tentang: `tentang.html`, Memuat informasi tentang website, anggota kelompok, dan referensi.
