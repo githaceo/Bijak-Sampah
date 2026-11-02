@@ -140,3 +140,10 @@ Jika proyek menggunakan folder khusus untuk menyimpan gambar, tambahkan folder t
 2. United Nations. Sustainable Development Goal 11: Sustainable Cities and Communities. https://sdgs.un.org/goals/goal11
 3. United Nations. Sustainable Development Goal 12: Responsible Consumption and Production. https://sdgs.un.org/goals/goal12
 4. United Nations Environment Programme. https://www.unep.org/
+
+## Sumber Gambar
+Sumber foto kategori sampah
+1. https://qr.ptsuparmatbk.com/blog/wp-content/uploads/2025/05/sampah-organik.png
+2. https://www.circularonline.co.uk/wp-content/uploads/2019/09/Screenshot-2019-09-12-at-07.45.34-1.png
+3. https://axil-is.com/wp-content/uploads/2022/08/5-Hazardous-Waste-Examples-Image-1-768x512.jpeg
+4. https://media.istockphoto.com/id/1132033248/id/foto/sampah-tisu-gambar-pilek-pilek-demam-jerami-dll-atau-setelah-make-up.jpg?s=170667a&w=0&k=20&c=FabDx9YqFQ-JrdfQFjIn9Yg8PFrlHk4-Jzkjyu6JUug=
