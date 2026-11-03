@@ -131,7 +131,7 @@ Jika proyek menggunakan folder khusus untuk menyimpan gambar, tambahkan folder t
 
 ## Website dan Repository
 
-- URL GitHub Repository: https://github.com/githaceo/Bijak-Sampah/)
+- URL GitHub Repository: https://github.com/githaceo/Bijak-Sampah/
 - URL GitHub Pages: https://githaceo.github.io/Bijak-Sampah/index.html
   
 ## Referensi 
