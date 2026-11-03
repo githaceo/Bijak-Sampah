@@ -77,8 +77,7 @@ Kode tersebut menghubungkan dokumen HTML dengan stylesheet sehingga tampilan hal
 
 CSS Grid digunakan untuk mengatur tata letak kartu dan konten dalam beberapa kolom. Flexbox digunakan untuk membantu menyusun elemen secara horizontal atau vertikal sesuai kebutuhan desain.
 
-Contoh penggunaan Grid berikut merupakan ilustrasi. Pastikan aturan yang dijelaskan sesuai dengan kode sebenarnya di `style.css`.
-
+Contoh penggunaan Grid berikut merupakan ilustrasi. 
 ```css
 .category-grid {
     display: grid;
@@ -93,8 +92,7 @@ Kode tersebut menyusun kartu kategori menjadi empat kolom pada layar yang cukup 
 
 Media queries digunakan untuk menyesuaikan tata letak berdasarkan ukuran layar.
 
-Contoh berikut merupakan ilustrasi penyesuaian menjadi dua kolom pada layar yang lebih kecil. Sesuaikan dengan breakpoint dan aturan yang benar-benar digunakan dalam CSS proyek.
-
+Contoh berikut merupakan ilustrasi penyesuaian menjadi dua kolom pada layar yang lebih kecil. 
 ```css
 @media (max-width: 1000px) {
     .category-grid {
@@ -109,7 +107,6 @@ Dengan desain responsif, tata letak dapat disesuaikan agar konten lebih nyaman d
 
 Setiap halaman menyediakan tautan menuju halaman lainnya. Navigasi ini membantu pengunjung berpindah dari Beranda ke Edukasi, Panduan, Artikel, atau Tentang.
 
-Seluruh tautan perlu diuji untuk memastikan tidak ada halaman yang salah alamat atau tidak dapat dibuka.
 
 ## Struktur Folder
 
@@ -118,7 +115,7 @@ Struktur folder proyek dirancang sebagai berikut:
 ```text
 Bijak_Sampah_Professional/
 ├── index.html
-├── edukasi.html
+├── kategori.html
 ├── panduan.html
 ├── artikel.html
 ├── tentang.html
@@ -126,8 +123,6 @@ Bijak_Sampah_Professional/
 │   └── style.css
 └── README.md
 ```
-
-Jika proyek menggunakan folder khusus untuk menyimpan gambar, tambahkan folder tersebut ke dalam struktur di atas sesuai dengan susunan file sebenarnya.
 
 ## Website dan Repository
 
